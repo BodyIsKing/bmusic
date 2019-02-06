@@ -1,0 +1,6 @@
+﻿token = NTQyODIyODI0ODgxMTYwMjU1.Dzzm_A.gFvffmOkEN971PSUoDN3rRP1eSA
+owner =451162715981873173
+prefix =1
+game = 1help | BCY Empires
+stayinchannel = false
+songinstatus = false
